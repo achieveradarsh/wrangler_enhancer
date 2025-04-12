@@ -1,0 +1,11 @@
+Prompts used for this project:
+
+1. "Implement a ByteSize class that extends Token for parsing byte size values"
+2. "Create a TimeDuration class for handling time duration values with various units"
+3. "Modify the ANTLR grammar to support byte size and time duration tokens"
+4. "Implement DirectivesListener for parsing grammar with new token types"
+5. "Create an AggregateStats directive for byte size and time duration aggregation"
+6. "Write comprehensive unit tests for ByteSize and TimeDuration classes"
+7. "Develop test cases for the AggregateStats directive"
+8. "Implement conversion between different byte size units"
+9. "Add support for fractional values in time duration parsing"
